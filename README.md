@@ -1,7 +1,7 @@
 # Unity Workshop 1
-This project will help in your workshop providing you with an introduction to using Unity and some of the basics to get started with your first project. 
+This project is to be used in the workshop "Unity Basics" and contains resources to help create your first project.
 
-###Topics covered:
+### Topics covered:
 ##### 1. Setting Up First Project
 - 2D vs 3D project
 - Initial folder structure
